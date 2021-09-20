@@ -629,11 +629,12 @@ main .container-6 .blog h2 a{
     text-decoration: none;
 }
 
+main .container-6 .blog h2 a,
 main .container-6 .blog h2 a:visited { 
     color: black; 
 }
 
-main .container-6 .blog h2 a:hover{    
+main .container-6 .blog h2 a:hover{   
     color: #fcb64e;
 }
 
